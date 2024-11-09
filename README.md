@@ -10,7 +10,7 @@ This project demonstrates how to analyze a home sales dataset using **Apache Spa
 
 ## Environment
 
-This project was implemented on **Google Colab**, which provides an easy environment to run Spark. Below are the steps to set up and run the project on **Google Colab** or any local environment with Spark installed.
+This project was implemented on **Google Colab**, which provides an easy environment to run Spark.
 
 ## Conclusion
 
